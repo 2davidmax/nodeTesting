@@ -13,6 +13,7 @@
     "express": "~4.13.1",
     "formidable": "^1.2.1",
     "http-proxy": "latest",
+    "joi": "^14.3.1",
     "multer": "latest",
     "pug": "^2.0.3",
     "request": "latest",
